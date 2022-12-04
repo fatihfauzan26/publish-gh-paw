@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/publish-gh-paw/static/css/main.073c9b0a.css",
+    "main.js": "/publish-gh-paw/static/js/main.6f296b0d.js",
+    "static/js/787.f4f4d9cf.chunk.js": "/publish-gh-paw/static/js/787.f4f4d9cf.chunk.js",
+    "static/media/logo.svg": "/publish-gh-paw/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/publish-gh-paw/index.html",
+    "main.073c9b0a.css.map": "/publish-gh-paw/static/css/main.073c9b0a.css.map",
+    "main.6f296b0d.js.map": "/publish-gh-paw/static/js/main.6f296b0d.js.map",
+    "787.f4f4d9cf.chunk.js.map": "/publish-gh-paw/static/js/787.f4f4d9cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f296b0d.js"
+  ]
+}
